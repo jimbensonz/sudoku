@@ -1,7 +1,7 @@
 # Sudoku Solver 
 
 
-It is a Python program to solve Sudoku problems. Type ``python3 main.py`` to execute the program.
+It is a Python program to solve Sudoku problems. Type ``python3 main.py`` in the terminal to execute the program.
 
 The program can accept either ``csv`` file or image as the input. The examples of both data types can be found in the ``data/`` folder.
 
